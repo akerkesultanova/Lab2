@@ -1,2 +1,2 @@
-ASP .NET CORE 
+ASP .NET CORE framework
 Lab 2
